@@ -1,1 +1,12 @@
-/* место для вашего кода */
+@import url(../styles/global.css);
+@import url(../styles/main_page.css);
+@import url(../styles/header.css);
+@import url(../styles/overlay.css);
+@import url(../styles/cover.css);
+@import url(../styles/lots.css);
+@import url(../styles/about.css);
+@import url(../styles/footer.css);
+
+
+
+

@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 356px;
+  max-width: 1440px;
+  max-height: 2844px;
+  margin: 0 50px 90px;
+}
+
+.menu-list-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  text-align: center;
+  list-style-type: none;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-self: start;
+  width: 240px;
+  height: 48px;
+}
